@@ -15,9 +15,9 @@ bioRxiv 2024.11.11.619379; doi: https://doi.org/10.1101/2024.11.11.619379
   * Top-ranking motif collection (TF count)
   * Complete MEX set of benchmarked motifs (percentage)
 
-* **F1C** – *ADD A DESCRIPTION*
+* **F1C** –  Distributions of auROC values for all TF-dataset pairs calculated from the top-ranking motifs from each motif discovery tool selected by global benchmarking: tested on ChIP-Seq.
 
-* **F1D** – *ADD A DESCRIPTION*
+* **F1D** –  Distributions of auROC values for all TF-dataset pairs calculated from the top-ranking motifs from each motif discovery tool selected by global benchmarking: tested on all variants of genomic HT-SELEX (D). 
 
 ---
 
