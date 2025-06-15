@@ -1,5 +1,5 @@
 
-# This repository contains data tables used for plotting figures in the article *Cross-platform DNA motif discovery and benchmarking to explore binding specificities of poorly studied human transcription factors*
+# This repository contains data tables used for plotting figures in the article *Cross-platform motif discovery and benchmarking to explore binding specificities of poorly studied human transcription factors*
 Ilya E. Vorontsov, Ivan Kozin, Sergey Abramov, Alexandr Boytsov, Arttu Jolma, Mihai Albu, Giovanna Ambrosini, Katerina Faltejskova, Antoni J. Gralak, Nikita Gryzunov, Sachi Inukai, Semyon Kolmykov, Pavel Kravchenko, Judith F. Kribelbauer-Swietek, Kaitlin U. Laverty, Vladimir Nozdrin, Zain M. Patel, Dmitry Penzar, Marie-Luise Plescher, Sara E. Pour, Rozita Razavi, Ally W.H. Yang, Ivan Yevshin, Arsenii Zinkevich, Matthew T. Weirauch, Philipp Bucher, Bart Deplancke, Oriol Fornes, Jan Grau, Ivo Grosse, Fedor A. Kolpakov, The Codebook/GRECO-BIT Consortium, Vsevolod J. Makeev, Timothy R. Hughes, Ivan V. Kulakovskiy
 bioRxiv 2024.11.11.619379; doi: https://doi.org/10.1101/2024.11.11.619379
 
@@ -115,7 +115,7 @@ bioRxiv 2024.11.11.619379; doi: https://doi.org/10.1101/2024.11.11.619379
 
 ## **Supplementary Figure SF11:**
 
-**Metric correlation plots across motifs/datasets with Pearson’s rho**
+**Correlations of different benchmarking metrics considering all pairs of motifs and datasets**
 
 * **SF11A.csv** – ChIP-Seq
 
