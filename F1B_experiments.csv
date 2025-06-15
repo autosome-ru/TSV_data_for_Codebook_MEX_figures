@@ -1,0 +1,12 @@
+,Experiment,Numbers of TFs,Percentage contribution to the set of MEX benchmarked motifs
+0,ChIP-Seq,36,8.259
+1,GHT-SELEX,75,50.808
+2,HT-SELEX,96,37.507
+3,SMiLE-Seq,13,2.609
+4,PBM,16,0.817
+5,GHT-SELEX GFPIVT,54,27.007
+6,GHT-SELEX IVT,0,1.363
+7,GHT-SELEX Lysate,21,22.438
+8,HT-SELEX GFPIVT,46,22.359
+9,HT-SELEX IVT,16,0.791
+10,HT-SELEX Lysate,34,14.357

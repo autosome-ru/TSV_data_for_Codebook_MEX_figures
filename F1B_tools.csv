@@ -1,0 +1,12 @@
+,Tool,Numbers of TFs,Percentage contribution to the set of MEX benchmarked motifs
+0,Dimont,112,3.68
+1,ChIPMunk,32,6.679
+2,ProBound,26,1.09
+3,MEME,17,22.917
+4,Autoseed,15,0.478
+5,Homer,11,39.142
+6,Streme,8,23.041
+7,DimontHTS,6,0.363
+8,ExplaiNN,6,2.018
+9,RCade,3,0.452
+10,GkmSVM,0,0.139

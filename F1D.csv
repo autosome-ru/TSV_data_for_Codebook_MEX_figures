@@ -1,0 +1,16 @@
+,Data type,Dimont,Other tools,ChIPMunk,ProBound,MEME,Autoseed,Homer,STREME,DimontHTS,ExplaiNN,RCade
+0,ChIP-Seq,78,76,,,,,,,,,
+1,"ChIP-Seq
+w/o Dimont",,,22,12,10,13,6,7,3,3,0
+2,GHT-SELEX,37,138,,,,,,,,,
+3,"GHT-SELEX
+w/o Dimont",,,50,7,16,28,8,8,10,9,2
+4,HT-SELEX,88,90,,,,,,,,,
+5,"HT-SELEX
+w/o Dimont",,,17,31,11,3,9,14,0,1,4
+6,PBM,4,52,,,,,,,,,
+7,"PBM
+w/o Dimont",,,6,13,15,7,6,2,3,0,0
+8,SMiLE-Seq,22,60,,,,,,,,,
+9,"SMiLE-Seq
+w/o Dimont",,,9,16,11,6,8,2,6,2,0
